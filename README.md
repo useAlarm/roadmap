@@ -5,3 +5,6 @@
 
 ## 12/8/2023
 * Join page added.
+
+## 12/11/2023
+* Backend is finished.
