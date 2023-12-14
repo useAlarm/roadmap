@@ -8,3 +8,6 @@
 
 ## 12/11/2023
 * Backend is finished.
+
+## 12/14/2023
+* Front-end Alarm algorithm is almost done.
