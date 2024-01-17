@@ -14,3 +14,7 @@
 
 ## 12/15/2023
 * Front-end alarm function is done.
+
+## 1/17/2024
+* Front-end alarm function bugs are fixed.
+* Back-end is completed.
