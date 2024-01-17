@@ -18,3 +18,4 @@
 ## 1/17/2024
 * Front-end alarm function bugs are fixed.
 * Back-end is completed.
+* New homepage design is done.
