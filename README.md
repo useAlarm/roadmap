@@ -22,3 +22,8 @@
 
 ## 1/22/2024
 * New homepage is done.
+
+## 1/24/2024
+* Back-end is completed
+* User count added to front-end
+* Needing deployments than the project is gonna be done 🚀!
