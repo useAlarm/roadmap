@@ -7,7 +7,7 @@
 * Join page added.
 
 ## 12/11/2023
-* Back-end is finished.
+* Back-end updates.
 
 ## 12/14/2023
 * Front-end Alarm algorithm is almost done.
@@ -26,4 +26,4 @@
 ## 1/24/2024
 * Back-end is completed
 * User count added to front-end
-* Needing deployments than the project is gonna be done 🚀!
+* Deployed for the production 🚀
